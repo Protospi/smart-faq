@@ -1,5 +1,7 @@
 
-
+<p align="center">
+  <img src="document_search_circle.png" alt="Image" width="200" height="200" style="border-radius: 50&#37;; object-fit: cover; overflow: hidden;" />
+</p>
 
 ### Project Summary for Vue Quasar Application with AI Chatbot for Guide121
 
